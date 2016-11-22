@@ -1,0 +1,5 @@
+syntax: glob
+*.hlt
+*.log
+tags
+halite
