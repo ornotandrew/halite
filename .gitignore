@@ -3,3 +3,4 @@ syntax: glob
 *.log
 tags
 halite
+submission*.zip
